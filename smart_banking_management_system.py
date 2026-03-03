@@ -154,3 +154,68 @@ def main():
 if __name__ == "__main__":
     main()
 
+ #Smart Bank System 
+1. Create Account
+2. View Account
+3. Deposit Money
+4. Withdraw Money
+5. Delete Account
+6. Exit
+Select option: 1
+Enter account holder name: chekkarakondla karthik kumar
+Enter initial deposit: 100000
+Account created successfully!
+Account Number: 1772559274044748
+ #Smart Bank System 
+1. Create Account
+2. View Account
+3. Deposit Money
+4. Withdraw Money
+5. Delete Account
+6. Exit
+Select option: 2
+Enter account number:  1772559274044748
+Account not found!
+ #Smart Bank System 
+1. Create Account
+2. View Account
+3. Deposit Money
+4. Withdraw Money
+5. Delete Account
+6. Exit
+#select option: 3
+Enter account number:  1772559274044748
+Enter amount to deposit: 100000
+Account not found!
+# Smart Bank System 
+1. Create Account
+2. View Account
+3. Deposit Money
+4. Withdraw Money
+5. Delete Account
+6. Exit
+Select option: 4
+Enter account number:  1772559274044748
+Enter amount to withdraw: 50000
+Account not found!
+
+ #Smart Bank System 
+1. Create Account
+2. View Account
+3. Deposit Money
+4. Withdraw Money
+5. Delete Account
+6. Exit
+Select option: 5
+Enter account number to delete:  1772559274044748
+Account not found!
+
+Smart Bank System
+1. Create Account
+2. View Account
+3. Deposit Money
+4. Withdraw Money
+5. Delete Account
+6. Exit
+Select option: 6
+Thank you for using Smart Bank System!
